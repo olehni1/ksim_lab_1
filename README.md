@@ -83,3 +83,26 @@
 | 4 |	175 |
 | 4.5 |	208 |
 | 5 |	230 |
+
+**grass-energy = 1**:
+
+<img width="540" alt="image" src="https://github.com/olehni1/ksim_lab_1/assets/150624205/10f79b5f-8419-4b39-b56a-2e6af9ad0f23"><img width="539" alt="image" src="https://github.com/olehni1/ksim_lab_1/assets/150624205/443e1612-dcd6-4de3-9617-ebab59d5fcf4">
+
+<br>
+
+**grass-energy=2**:
+
+<img width="539" alt="image" src="https://github.com/olehni1/ksim_lab_1/assets/150624205/f9336599-d89d-4125-ab04-550e6dc97d0f">
+
+<br>
+
+**grass-energy=5**:
+
+<img width="536" alt="image" src="https://github.com/olehni1/ksim_lab_1/assets/150624205/b14c5574-deb3-456a-845d-17d23bef0fe7">
+
+<br>
+
+Представлені графіки вказують на пряму залежність середньої популяції кроликів від енергії, яку вони отримують від трави. Зв'язок є майже лінійним, за умови врахування лише даних даного експерименту. Також цікавим фактом є те, що при grass-energy = 1 у деяких випадках популяція кроликів припиняла зростання. Це може бути викликане недоліками поточної моделі: кролики не активно "шукають" їжу, а випадково переміщуються по полю.
+
+
+
