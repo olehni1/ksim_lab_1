@@ -89,11 +89,13 @@
 <img width="540" alt="image" src="https://github.com/olehni1/ksim_lab_1/assets/150624205/10f79b5f-8419-4b39-b56a-2e6af9ad0f23"><img width="539" alt="image" src="https://github.com/olehni1/ksim_lab_1/assets/150624205/443e1612-dcd6-4de3-9617-ebab59d5fcf4">
 
 <br>
+<br>
 
 **grass-energy=2**:
 
 <img width="539" alt="image" src="https://github.com/olehni1/ksim_lab_1/assets/150624205/f9336599-d89d-4125-ab04-550e6dc97d0f">
 
+<br>
 <br>
 
 **grass-energy=5**:
@@ -163,11 +165,13 @@ end
 <img width="535" alt="image" src="https://github.com/olehni1/ksim_lab_1/assets/150624205/b39b3934-0513-4cef-a119-4ba739fbc4e3">
 
 <br>
+<br>
 
 **weed-grow-rate = 10**:
 
 <img width="533" alt="image" src="https://github.com/olehni1/ksim_lab_1/assets/150624205/780a0c26-66be-43b3-b226-3770dca77090">
 
+<br>
 <br>
 
 **weed-grow-rate = 20**:
